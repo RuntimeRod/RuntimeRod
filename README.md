@@ -1,6 +1,6 @@
 
 <h3 align="left">╭————|⠀ 𝒉𝒆𝒚 𝒕𝒉𝒆𝒓𝒆. ⠀|—————————————╮</h3>
-##
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f50a16&height=120&section=header"/>
 
