@@ -17,8 +17,6 @@
   <h3 align="left">Main Skills:</h3>
   <img align="center" alt="Rod-Java" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> -
   <img align="center" alt="Rod-Js" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> -
-  <img align="center" alt="Rod-React" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> -
-  <img align="center" alt="Rod-Node" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> -
   <img align="center" alt="Rod-HTML" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> -
   <img align="center" alt="Rod-CSS" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> -
   <img align="center" alt="Rod-MySQL" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> -
@@ -28,8 +26,7 @@
 
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
 
 
 ##
