@@ -15,7 +15,7 @@
 
 <div style="display: inline_block"><br>
   <h3 align="left">Main Skills:</h3>
-  <img align="center" alt="Rod-Java" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> -
+  <img align="center" alt="Rod-" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> -
   <img align="center" alt="Rod-Js" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> -
   <img align="center" alt="Rod-HTML" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> -
   <img align="center" alt="Rod-CSS" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> -
