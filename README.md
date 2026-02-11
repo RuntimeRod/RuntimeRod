@@ -15,12 +15,12 @@
 
 <div style="display: inline_block"><br>
   <h3 align="left">Main Skills:</h3>
-  <img align="center" alt="Rod-" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> -
+  <img align="center" alt="Rod-type" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> -
   <img align="center" alt="Rod-Js" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> -
-  <img align="center" alt="Rod-HTML" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> -
-  <img align="center" alt="Rod-CSS" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reacnative-original.svg"> -
-  <img align="center" alt="Rod-MySQL" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/node/node-original.svg"> -
-  <img align="center" alt="Rod-MongoDB" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg"> 
+  <img align="center" alt="Rod-react" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> -
+  <img align="center" alt="Rod-reactnative" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original.svg"> -
+  <img align="center" alt="Rod-node" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"> -
+  <img align="center" alt="MySQL" height="70" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> 
   
 </div>
 
